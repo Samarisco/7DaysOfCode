@@ -21,7 +21,8 @@ Cada día tendrá su propio directorio con el código de la solución:
 
 ## 📬 Contacto
 
-¿Quieres intercambiar ideas o discutir soluciones? ¡Conéctate conmigo en LinkedIn!
+¿Quieres intercambiar ideas o discutir soluciones? ¡Conéctate conmigo en [LinkedIn!](https://www.linkedin.com/in/samaelamaral/)
+
 
 👨‍💻 ¡Seguimos aprendiendo y programando! 👨‍💻🚀
 
