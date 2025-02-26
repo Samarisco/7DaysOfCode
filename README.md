@@ -1,27 +1,27 @@
-JS Type Comparison
+# 💻 #7DaysOfCode - Reto de Programación 💻
 
-Este proyecto es parte del desafío #7DaysOfCode y se enfoca en la comparación de valores y tipos de variables en JavaScript.
+Bienvenido a mi repositorio de #7DaysOfCode, donde resolveré una serie de desafíos diarios enfocados en mejorar mis habilidades en JavaScript y lógica de programación.
 
-Descripción
+## 📌 Sobre el Desafío
 
-JavaScript permite comparaciones de valores de diferentes tipos mediante la conversión implícita, lo que puede generar resultados inesperados. En este ejercicio, corregimos un código para realizar comparaciones correctamente utilizando === en lugar de ==, garantizando así la validación tanto de valor como de tipo.
+Durante 7 días consecutivos, abordaré distintos problemas de programación, aplicando buenas prácticas y reforzando conceptos clave del lenguaje.
 
-Archivos
+## 📂 Contenido del Repositorio
 
-Reto1.js: Contiene el código de comparación corregido.
+Cada día tendrá su propio directorio con el código de la solución:
 
-Cómo ejecutar el código
+📜 día-1/ - Comparaciones de tipos en JavaScript.
 
-Abre la consola del navegador (clic derecho > Inspeccionar > Consola).
+## 🎯 Objetivos del Reto
 
-Copia y pega el contenido de script.js en la consola y presiona Enter.
+✔️ Fortalecer la lógica de programación.
+✔️ Explorar diferentes conceptos de JavaScript.
+✔️ Crear un hábito de práctica diaria.
+✔️ Compartir conocimientos con la comunidad.
 
-Observa los resultados de las comparaciones.
+## 📬 Contacto
 
-Tecnologías utilizadas
+¿Quieres intercambiar ideas o discutir soluciones? ¡Conéctate conmigo en LinkedIn!
 
-JavaScript
+👨‍💻 ¡Seguimos aprendiendo y programando! 👨‍💻🚀
 
-Autor
-
-Juan Samael Amaral Bravo
