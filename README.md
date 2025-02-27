@@ -11,6 +11,7 @@ Durante 7 días consecutivos, abordaré distintos problemas de programación, ap
 Cada día tendrá su propio directorio con el código de la solución:
 
 📜 día-1/ - Comparaciones de tipos en JavaScript.
+📜 día-2/ - Almacenar valores en JavaScript.
 
 ## 🎯 Objetivos del Reto
 
