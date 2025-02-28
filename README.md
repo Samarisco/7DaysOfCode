@@ -12,7 +12,8 @@ Cada día tendrá su propio directorio con el código de la solución:
 
 📜 día-1/ - Comparaciones de tipos en JavaScript.
 📜 día-2/ - Almacenar valores en JavaScript.
-📜 día-3/ - Estructuras de control de flujo
+📜 día-3/ - Estructuras de control de flujo.
+📜 día-4/ - Mas loops y randomización.
 
 ## 🎯 Objetivos del Reto
 
